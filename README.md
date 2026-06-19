@@ -72,7 +72,4 @@ java tictactoe.Main
 - Add score tracking and match history.
 
 
-## Author
 
-  Fuad Intisar-2023831041<br>
-Shushanto Kumar Sarkar-20228301039
